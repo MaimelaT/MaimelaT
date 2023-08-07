@@ -11,6 +11,7 @@ Mechanical Engineer with 3 years experience<br>BTech in Mechanical Engineering *
 ![](https://github-readme-stats.vercel.app/api?username=MaimelaT&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MaimelaT&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaimelaT&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![image](https://github.com/MaimelaT/MaimelaT/assets/139053059/00dccc28-6177-49ac-92ac-1d3482eed737)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MaimelaT&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
