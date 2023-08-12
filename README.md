@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mechanical Engineer with 3 years experience<br>BTech in Mechanical Engineering * Distinctions<br>Google Data Analytics Professional Certificate<br>C++ Programming Online Diploma<br><br>Ready to join the Business Intelligence Analyst / Data Analysis world as a professional, bringing my project management and engineering expertise to help companies gain insights to make informed decisions
+Mechanical Engineer with 3 years experience<br>BTech in Mechanical Engineering * Distinctions<br>Google Data Analytics Professional Certificate<br>C++ Programming Online Diploma<br><br>Business Intelligence Analyst / Data Analysis professional, bringing my project management and engineering expertise to help companies gain insights to make informed decisions
 
 
 ## 🌐 Socials:
